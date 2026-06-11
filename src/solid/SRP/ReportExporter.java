@@ -1,4 +1,4 @@
-package solid.SRP;
+package solid.srp;
 
 public class ReportExporter {
     public void exportPDF() {

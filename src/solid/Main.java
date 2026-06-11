@@ -1,10 +1,10 @@
 package solid;
 
-import solid.srp.*;
-import solid.ocp.*;
-import solid.lsp.*;
-import solid.isp.*;
 import solid.dip.*;
+import solid.lsp.*;
+import solid.ocp.*;
+import solid.srp.*;
+import solid.ISP.*;
 
 public class Main {
     public static void main(String[] args) {

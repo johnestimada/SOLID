@@ -1,4 +1,4 @@
-package solid.SRP;
+package solid.srp;
 
 public class ReportGenerator {
     public void generate() {
